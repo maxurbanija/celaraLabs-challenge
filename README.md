@@ -120,8 +120,8 @@ docker run -p 3100:3100 automaticbytes/demo-app
 2. **In another terminal, run tests:**
 ```bash
 # Clone and setup
-git clone <your-repo-url>
-cd home-test
+git clone https://github.com/maxurbanija/celaraLabs-challenge.git
+cd celaraLabs-challenge
 npm install
 npx playwright install
 
